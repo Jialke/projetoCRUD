@@ -1,0 +1,7 @@
+Instalar primeiro o environment.yml com o conda ou instalar o sqlalchemy
+para que os comandos funcionem
+
+Executar na ordem:
+=> models.py (para criar o banco de dados)
+=> exemplos.py (para colocar alguns dados dentro do banco de dados) - opcional
+=> crud.py (executa o crud)
